@@ -1,3 +1,3 @@
 # Member-Booster
-### STAR IT
+# STAR IT
 Fastest Member Booster Ever
